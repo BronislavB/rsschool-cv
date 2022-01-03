@@ -4,7 +4,7 @@
 * __Location:__ Minsk, Belarus
 * __Phone:__ +375 33 382-42-72
 * __Email:__ messageforbro@gmail.com
-* __GitHub:__ BronislavB  
+* __GitHub:__ [BronislavB](https://github.com/BronislavB)  
 
 ## About Me  
 
